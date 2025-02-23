@@ -16,7 +16,7 @@ REST API response with extracted text
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/django-ocr-project.git
+git clone https://github.com/your-username/media_text_extractor.git
 cd media_api
 ```
 
